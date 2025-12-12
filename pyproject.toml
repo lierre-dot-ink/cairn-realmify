@@ -1,0 +1,9 @@
+[project]
+name = "cairn_realmify"
+version = "0.1.1"
+description = "Generates text-based maps based on the TTRPG Cairn2e setting generation procedure."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pytest>=9.0.2",
+]
